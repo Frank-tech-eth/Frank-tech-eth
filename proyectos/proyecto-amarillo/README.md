@@ -1,15 +1,15 @@
-# 🟡 Proyecto Amarillo - App de Delivery de Comida
+# 🟡 DAO Governance - Decentralized Autonomous Organization
 
 <div align="center">
   <img src="https://img.shields.io/badge/Status-En_Planificación-ffd700?style=for-the-badge" alt="Status" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
+  <img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=openzeppelin&logoColor=white" alt="OpenZeppelin" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
 </div>
 
 ## 📋 Descripción
 
-Aplicación móvil completa para delivery de comida que conecta restaurantes con clientes. Incluye funcionalidades de pedidos en tiempo real, seguimiento GPS, pagos integrados y sistema de calificaciones.
+Sistema completo de gobernanza descentralizada que permite a los miembros de una DAO crear propuestas, votar y ejecutar decisiones de forma transparente y segura. Incluye token de gobernanza y sistema de votación ponderada.
 
 ## ✨ Características Planificadas
 

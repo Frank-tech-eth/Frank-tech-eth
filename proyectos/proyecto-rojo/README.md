@@ -1,26 +1,26 @@
-# 🔴 Proyecto Rojo - API REST de Inventarios
+# 🔴 NFT Marketplace - Web3 Application
 
 <div align="center">
   <img src="https://img.shields.io/badge/Status-Completado-ff0000?style=for-the-badge" alt="Status" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white" alt="IPFS" />
 </div>
 
 ## 📋 Descripción
 
-API REST completa para la gestión de inventarios empresariales. Permite el control total de productos, categorías, proveedores y movimientos de stock con autenticación JWT y documentación automática.
+Marketplace completo de NFTs que permite a los usuarios crear, comprar, vender y coleccionar tokens no fungibles. Incluye minting de NFTs, marketplace de trading, y sistema de royalties para creadores.
 
 ## ✨ Características
 
-- 🔐 Autenticación JWT con roles y permisos
-- 📚 Documentación automática con Swagger/OpenAPI
-- 🗄️ Base de datos PostgreSQL con SQLAlchemy ORM
-- 🔄 Validación de datos con Pydantic
-- 📊 Reportes y estadísticas de inventario
-- 🚀 Alta performance con FastAPI
-- 🧪 Tests unitarios y de integración
-- 📦 Docker y Docker Compose incluidos
+- 🎨 **Minting de NFTs**: Crear tokens únicos con metadatos
+- 🛒 **Marketplace**: Comprar y vender NFTs con ETH
+- 💰 **Sistema de Royalties**: Pagos automáticos a creadores
+- 🔐 **Smart Contracts Auditados**: Seguridad garantizada
+- 📱 **Interfaz Web3**: Conexión con wallets populares
+- 🖼️ **Almacenamiento IPFS**: Metadatos descentralizados
+- 📊 **Analytics**: Estadísticas de ventas y tendencias
+- 🎯 **Colecciones**: Organización por categorías
 
 ## 🛠️ Tecnologías Utilizadas
 

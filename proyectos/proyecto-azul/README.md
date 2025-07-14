@@ -1,15 +1,15 @@
-# 🔵 Proyecto Azul - Dashboard de Analytics en Tiempo Real
+# 🔵 Crypto Analytics Dashboard - Real-time Cryptocurrency Data
 
 <div align="center">
   <img src="https://img.shields.io/badge/Status-En_Desarrollo-0066cc?style=for-the-badge" alt="Status" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
   <img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white" alt="D3.js" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/CoinGecko_API-8DC647?style=for-the-badge&logo=coingecko&logoColor=white" alt="CoinGecko API" />
 </div>
 
 ## 📋 Descripción
 
-Dashboard de analytics en tiempo real que permite a las empresas monitorear métricas clave, visualizar datos complejos y tomar decisiones informadas basadas en información actualizada al momento.
+Dashboard completo de analytics para criptomonedas que proporciona datos en tiempo real sobre precios, volúmenes, market cap, y tendencias del mercado crypto. Incluye gráficos interactivos, alertas de precio, y análisis técnico.
 
 ## ✨ Características
 
