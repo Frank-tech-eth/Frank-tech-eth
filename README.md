@@ -6,12 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Desarrollador+Web3;Santiago+de+Chile;Apasionado+por+Blockchain" alt="Typing SVG" />
 </div>
 
-* 🔭 Actualmente estoy trabajando en **proyectos DeFi y Smart Contracts**
-* 🌱 Y estoy aprendiendo de forma autodidacta sobre **Web3 y criptomonedas**
-* 🤝 Me vendría bien ayuda en **cualquier cosa que puedas mejorar de mis repositorios**
-* ⚡ Puedo ayudarte con **desarrollo web, blockchain, smart contracts...**
-* 📫 Puedes encontrar las diferentes formas de contactarme en mi **LinkedIn y Twitter**
-
 ### 🎯 Mis objetivos
 - 🏗️ Desarrollar **Smart Contracts** y aplicaciones **DeFi**
 - 🌐 Crear soluciones **Web3** innovadoras
